@@ -15,12 +15,12 @@ Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
 
-## Final Analaysis
-As per the above data:
-Training Accuracy = 0.9137
-Validation Accuracy = 0.8643
-Training Loss = 0.2305
-Validation Loss = 0.3523
+## Final Analaysis</br>
+As per the above data:- </br>
+Training Accuracy = 0.9137</br>
+Validation Accuracy = 0.8643</br>
+Training Loss = 0.2305</br>
+Validation Loss = 0.3523</br>
 
 1. The Validation Accuracy is now improved to 0.8643 and Training Accuracy to 0.9137</br>
 2. There is a significant reduction in loss of both training and Validation sets.</br>
