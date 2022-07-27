@@ -15,7 +15,7 @@ Seborrheic keratosis
 Squamous cell carcinoma
 Vascular lesion
 
-# Final Analaysis
+## Final Analaysis
 As per the above data:
 Training Accuracy = 0.9137
 Validation Accuracy = 0.8643
