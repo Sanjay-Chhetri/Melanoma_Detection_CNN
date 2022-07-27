@@ -22,6 +22,6 @@ Validation Accuracy = 0.8643
 Training Loss = 0.2305
 Validation Loss = 0.3523
 
-The Validation Accuracy is now improved to 0.8643 and Training Accuracy to 0.9137
-There is a significant reduction in loss of both training and Validation sets.
-The model is not overfit. Class rebalance using Augmentor has helped to solve the issue of Overfitting.
+1. The Validation Accuracy is now improved to 0.8643 and Training Accuracy to 0.9137</br>
+2. There is a significant reduction in loss of both training and Validation sets.</br>
+3. The model is not overfit. Class rebalance using Augmentor has helped to solve the issue of Overfitting.</br>
